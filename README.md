@@ -66,3 +66,6 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+
+## Issues
+- [post.render is not a function](https://github.com/withastro/astro/issues/6012)
